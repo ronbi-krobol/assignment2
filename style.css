@@ -18,6 +18,7 @@
     .sec-1a {
         width: 1520px;
         height: 715px;    
+        background-color: black;
     }
 
   .h3-1 {
@@ -95,7 +96,7 @@
 }
 
 .sec-1a-div-2a h2 {
-    color: black;
+    color: white;
     font-size: 78px;
     font-weight: 900;
     margin: auto;
@@ -131,7 +132,7 @@
     font-size: 18px;
     font-weight: 600;
     color: white;
-    border-style: none;
+    border-color: white;
 }
 
 .sec-1a-div-2b {
@@ -148,7 +149,7 @@
 
 .sec-1a-div-2b-1 {
     position: relative;
-    width: 150px;
+    width: 160px;
     height: 80px;
     box-sizing: border-box;
     border: 1px solid rgba(255, 255, 255, 0.1);
@@ -158,20 +159,21 @@
     top: 130px;
     left: 200px;
     text-align: left;
-    padding-left: 10px;
+    padding-left: 20px;
 }
 
 .sec-1a-div-2b-1 > h3 {
-    color: black;
-    font-size: 30px;
+    color: white;
+    font-size: 25px;
     font-weight: 900;
-    margin-top: 5px;
+    margin-top: 10px;
     margin: 0;
+    padding-top: 7px;
 }
 
 .sec-1a-div-2b-1 > p {
-    color: black;
-    font-size: 14px;
+    color: white;
+    font-size: 12px;
     font-weight: 400;
     margin-bottom: 30px;
 }
@@ -191,9 +193,7 @@
     text-align: left;
     top: 330px;
     right: 100px;
-
-
-    
+    padding-right: 5px;
 }
 
 .sec-1a-div-2c button {
@@ -205,7 +205,7 @@
 }
 
 .sec-1a-div-2c h3 {
-    color: black;
+    color: white;
     font-size: 25px;
     font-weight: 900;
     margin-top: 100px;
@@ -215,8 +215,8 @@
 }
 
 .sec-1a-div-2c p{
-    color: black;
-    font-size: 16px;
+    color: white;
+    font-size: 14px;
     font-weight: 400;
     padding-left: 10px;
     
