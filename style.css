@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+
+
+
+
+.body-1 {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    margin: 0;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+   
+  }
+
+    .sec-1a {
+        width: 1520px;
+        height: 715px;    
+    }
+
+  .h3-1 {
+    color: rgb(230, 83, 60);
+    font-size: 36px;
+    font-weight: 800;
+    text-align: left;
+    font-style: italic;
+  }
+
+
+.sec-1a nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black ; 
+    
+}
+
+
+.ul-1a {
+    list-style: none;
+    display: flex;
+    border: 0.2px solid white;
+    border-radius: 20px;
+    padding: 0;
+    gap: 50px;
+    padding-right: 30px;    
+}
+
+.ul-1a li button {
+    font-size: 18px;
+    font-weight: 600;
+    border: none;
+    border-radius: 46px;
+    margin-left: 0;
+    color: white;
+    background-color: rgb(230, 83, 60);
+    font-size: 18px;
+    font-weight: 600;
+    width: 80px;
+}
+
+.ul-1a li {
+    display: flex;
+    padding: 0.5px;
+}
+
+.ul-1a li a {
+    text-decoration: none;
+    color: black;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: 400;
+    padding: 4px;
+}
+
+.sec-1a-div-2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.sec-1a-div-2a {
+    display: flex;
+    flex-direction: column;
+    width: 520px;
+    height: 440px;
+    margin-top: 20px;
+    padding-left: 120px;
+}
+
+.sec-1a-div-2a-1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sec-1a-div-2a h2 {
+    color: black;
+    font-size: 78px;
+    font-weight: 900;
+    margin: auto;
+}
+
+.sec-1a-div-2a p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.sec-1a-div-2a-1 {
+    margin-top: 20px;
+}
+
+.button-1 {
+    width: 224px;
+    height: 54px;
+    padding: 16px 40px 16px 40px;
+    border-radius: 42px;
+    background: rgb(230, 83, 60);
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    border-style: none;
+}
+
+.button-2 {
+    width: 224px;
+    height: 54px;
+    padding: 16px 40px 16px 40px;
+    border-radius: 42px;
+    background: black;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    border-style: none;
+}
+
+.sec-1a-div-2b {
+    padding-right: 300px;
+    
+}
+
+.sec-1a-div-2b img {
+    position: absolute;
+    width: 320px;
+    height: 550px;
+    
+}
+
+.sec-1a-div-2b-1 {
+    position: relative;
+    width: 150px;
+    height: 80px;
+    box-sizing: border-box;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    backdrop-filter: blur(20px);
+    background: rgba(255, 255, 255, 0.1);
+    top: 130px;
+    left: 200px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.sec-1a-div-2b-1 > h3 {
+    color: black;
+    font-size: 30px;
+    font-weight: 900;
+    margin-top: 5px;
+    margin: 0;
+}
+
+.sec-1a-div-2b-1 > p {
+    color: black;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.sec-1a-div-2c {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    width: 180px;
+    height: 80px;
+    box-sizing: border-box;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    backdrop-filter: blur(20px);
+    background: rgba(255, 255, 255, 0.1);
+    text-align: left;
+    top: 330px;
+    right: 100px;
+
+
+    
+}
+
+.sec-1a-div-2c button {
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background-color: tomato;
+    border-style: none;
+}
+
+.sec-1a-div-2c h3 {
+    color: black;
+    font-size: 25px;
+    font-weight: 900;
+    margin-top: 100px;
+    margin: 0;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.sec-1a-div-2c p{
+    color: black;
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 10px;
+    
+}
