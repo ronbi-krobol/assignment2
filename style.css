@@ -342,6 +342,103 @@
     border-radius: 20px;    
 }
 
+/* Section-4a........................................................................ */
+
+.sec-4a {
+    width: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec-4a h3 {
+
+    color: rgb(255, 255, 255);
+    font-size: 48px;
+    font-weight: 900;
+
+}
+
+.sec-4a > p {
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    width: 1100px;
+}
+
+.sec-4a-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 1180px;
+    height: 540px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    margin-top: 40px;
+}
+
+
+
+.sec-4a-1a {
+
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    justify-content: space-around;
+
+}
+
+.sec-4a-1a > img {
+    width: 100px;
+    height: 100px;
+}
+
+.sec-4a-1a h3 {
+    color: white;
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.sec-4a-1a p {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.sec-4a-1a button {
+    font-size: 18px;
+    font-weight: 600;
+    border: none;
+    border-radius: 46px;
+    margin-left: 0;
+    color: white;
+    background-color: rgb(230, 83, 60);
+    width: 300px;
+    height: 50px;
+}
+
+.sec-4a-1a h6 {
+    color: white;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.sec-4a-1b {
+    width: 500px;
+    height: 500px;
+}
+
+.sec-4a-1b > img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px
+}
 
 /* Section-5.......................................................................................................... */
 
@@ -623,100 +720,3 @@
     border: 2px solid rgba(255, 255, 255, 0.1);
 }
 
-/* Section-4a........................................................................ */
-
-.sec-4a {
-    width: 100%;
-    background-color: black;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-.sec-4a h3 {
-
-    color: rgb(255, 255, 255);
-    font-size: 48px;
-    font-weight: 900;
-
-}
-
-.sec-4a > p {
-    color: rgb(255, 255, 255);
-    font-size: 16px;
-    font-weight: 400;
-    text-align: center;
-    width: 1100px;
-}
-
-.sec-4a-1 {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
-    width: 1180px;
-    height: 540px;
-    background-color: rgba(255, 255, 255, 0.1);
-    border-radius: 20px;
-    margin-top: 40px;
-}
-
-
-
-.sec-4a-1a {
-
-    width: 500px;
-    height: 500px;
-    display: flex;
-    flex-direction: column;
-    color: white;
-    justify-content: space-around;
-
-}
-
-.sec-4a-1a > img {
-    width: 100px;
-    height: 100px;
-}
-
-.sec-4a-1a h3 {
-    color: white;
-    font-size: 28px;
-    font-weight: 400;
-}
-
-.sec-4a-1a p {
-    color: rgba(255, 255, 255, 0.5);
-    font-size: 16px;
-    font-weight: 400;
-}
-
-.sec-4a-1a button {
-    font-size: 18px;
-    font-weight: 600;
-    border: none;
-    border-radius: 46px;
-    margin-left: 0;
-    color: white;
-    background-color: rgb(230, 83, 60);
-    width: 300px;
-    height: 50px;
-}
-
-.sec-4a-1a h6 {
-    color: white;
-    font-size: 12px;
-    font-weight: 400;
-}
-
-.sec-4a-1b {
-    width: 500px;
-    height: 500px;
-}
-
-.sec-4a-1b > img {
-    width: 100%;
-    height: 100%;
-    border-radius: 10px
-}
