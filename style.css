@@ -222,6 +222,8 @@
     
 }
 
+/* Section-2 ................................................................................................................. */
+
 .sec-2a {
     display: flex;
     flex-direction: column;
@@ -268,6 +270,9 @@
     height: 180px;
     border-radius: 50%;
 }
+
+
+/* Section-3............................................................................................................ */
 
 .sec-3a {
     background-color: black;
@@ -338,6 +343,140 @@
 }
 
 
+/* Section-5.......................................................................................................... */
+
+.sec-5a-div-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.sec-5a-div-1 > h3 {
+    color: white;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 900;
+    width: 670px;
+    text-align: left;
+    margin: 0;
+    padding-top: 20px;
+    margin-top: 20px;
+}
+
+.sec-5a-div-1 > p {
+    color: rgba(255, 255, 255, 0.5);;
+    font-size: 14px;
+    font-weight: 400;
+    width: 670px;
+    text-align: left;
+    margin: 0;
+    padding-top: 20px;
+    margin-bottom: 40px;
+}
+
+.sec-5a-div-1a {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(34, 34, 34);
+    width: 100%;
+}
+
+.sec-5a-div-1a-1 {
+    width: 580px;
+    height: 390px;
+    padding-left: 180px;
+    
+}
+
+.sec-5a-div-1a-1 > h3 {
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+    font-weight: 900;
+   
+}
+.sec-5a-div-1a-1 > table, th, td {
+
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-collapse: collapse;
+    padding: 15px;
+    text-align: left;
+
+}
+
+.sec-5a-div-1a-1 th {
+    color: white;
+    font-weight: 300;
+}
+
+.sec-5a-div-1a td {
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: 300;
+    font-size: 14px;
+}
+
+
+.sec-5a-div-1a-2 {
+    width: 580px;
+    height: 390px;
+    padding-right: 170px;
+   
+}
+
+.sec-5a-div-1a-2 > h3 {
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+    font-weight: 900;
+}
+
+.sec-5a-div-1a-2 > p {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 14px;
+    font-weight: 400;
+    padding-bottom: 10px;
+}
+
+.sec-5a-div-1a-2b{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 20px;
+}
+
+#id-5 {
+    grid-column: span 2;
+}
+
+.sec-5a-div-1a-2b > input {
+    width: auto;
+    height: 30px;
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.1);
+    text-align: left;
+    padding-left: 10px;
+    border: 1px solid gray;
+    border-style: none;
+}
+
+.sec-5a-div-1a-2 > button {
+    width: 180px;
+    height: 40px;
+    border-radius: 42px;
+    background: rgb(230, 83, 60);
+    margin-top: 20px;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: 600;
+    border-style: none;
+
+
+}
+
+
+/* Section - 6............................................................................ */
+
+
 .sec-6a {
     background-color: black;
 
@@ -348,6 +487,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding-top: 40px;
 }
 
 .sec-6a-div-1 h3 {
@@ -391,51 +531,4 @@
 
 
 /* hdbckasjdnhckjasdnkcjasdnckjadsnclkasdnclaskdcmaksdncaksdnmkadmclkdcnadkfm */
-
-.sec-5a-div-1 {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-.sec-5a-div-1 > h3 {
-    color: black;
-    font-family: Inter;
-    font-size: 48px;
-    font-weight: 900;
-    width: 670px;
-    text-align: left;
-    margin: 0;
-    padding-top: 20px;
-}
-
-.sec-5a-div-1 > p {
-    color: black;
-    font-size: 14px;
-    font-weight: 400;
-    width: 670px;
-    text-align: left;
-    margin: 0;
-    padding-top: 20px;
-}
-
-.sec-5a-div-1a {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    width: 1140px;
-}
-
-.sec-5a-div-1a-1 {
-    width: 440px;
-    height: 320px;
-}
-
-.sec-5a-div-1a-2 {
-    width: 580px;
-    height: 390px;
-}
-
-
 
