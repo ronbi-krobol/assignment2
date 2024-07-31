@@ -15,6 +15,10 @@
    
   }
 
+  #icon {
+    display: none;
+  }
+
     .sec-1a {
         width: 1520px;
         height: 666px;    

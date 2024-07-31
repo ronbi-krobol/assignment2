@@ -9,15 +9,25 @@
         height: 1050px;
     }
 
+    #icon {
+        display: inline-block;
+        font-size: 30px;
+        margin-top: 20px;
+      }
+
     .sec-1a nav {
-        width: 230px;
+        width: 420px;
         display: flex;
+        
     }
 
    .h3-1{
     margin-top: 50px;
+    margin-left: -60px;
    }
-
+   .sec-1a-div-1 {
+    display: none;
+   }
     .ul-1a {
         
         display: none;
