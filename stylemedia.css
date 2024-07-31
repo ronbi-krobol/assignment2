@@ -171,4 +171,57 @@
     
 }
 
+/* -------------------------------------------------------------Section 3 */
+
+.sec-3a 
+{margin-top: 1400px;}
+
+.sec-3a-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 320px;
+    height: 580px;
+    gap: 30px;
+    
 }
+
+.sec-3a-1-a {
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec-3a-1-a h3 {
+
+    text-align: left;
+    padding-left: 40px;
+}
+
+.sec-3a-1-a p {
+    text-align: left;
+    padding-left: 40px;
+    padding-right: 30px;
+   
+}
+
+
+.sec-3a-1-a button {
+    width: 280px;
+    border-style: none;
+    
+}
+
+.sec-3a-1-b {
+    width: 320px;
+    height: 240px;
+}
+
+
+/* Sextion-4a.............................. */
+
+}
+
