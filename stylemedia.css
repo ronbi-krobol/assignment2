@@ -404,17 +404,44 @@
 
 .sec-5a-div-1a-2 > button {
     width: 130px;
-    height: 35px;
-    border-radius: 42px;
-    background: rgb(230, 83, 60);
-    margin-top: 20px;
-    color: rgb(255, 255, 255);
+    height: 35px; 
     font-size: 12px;
-    font-weight: 600;
-    border-style: none;
-
+}
 
 }
 
+/* sec-6.............................. */
+
+.sec-6a-div-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+}
+
+.sec-6a-div-1 h3 {
+    font-size: 36px;
+}
+
+.sec-6a-div-1 p {
+    font-size: 14px;
+    width: 300px;
+    
+}
+
+.sec-6a-div-1a {
+    width: 300px;
+    height: 1400px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 20px;
+    
+}
+
+.sec-6a-div-1a img{
+    width: 295px;
+    height: 220px;
 }
 
